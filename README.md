@@ -1,29 +1,21 @@
+<img src="https://raw.githubusercontent.com/dharma0504/dharma0504/main/das.gif" align="center" width=100% alt="GIF">
 
 
 <h1 align="center">Hi 👋, I'm Dharmatej Mallampati</h1>
 
- I'm Dharmatej Mallampati, a final-year Computer Science Engineering student  who loves building cool things with code. I believe in using code not just to solve problems, but to create solutions that improve everyday life. I enjoy exploring new tools, learning by building, and working across both frontend and backend development. With an interest in real-world applications and user-centered design, I aim to contribute to projects that truly make a difference.
+I'm currently pursuing a Bachelor's degree in Computer Science at SRMAP. I love turning ideas into reality through code — not just solving problems, but creating solutions that enhance everyday life. Curious by nature, I enjoy experimenting with new tools, learning by building, and working across the full stack — from intuitive frontend interfaces to robust backend systems. My focus lies in real-world applications and user-centered design, and I'm driven to contribute to projects that leave a lasting impact.
 
 ###
 <h2>👨🏻‍💻 About Me</h2>
 
-<table style="width:100%;">
-  <tr>
-    <td style="width:50%; vertical-align:top;">
-      <ul>
-        <li>🎓 Final-year Computer Science Engineering student</li>
-        <li>💡 Passionate about real-world tech that creates impact</li>
-        <li>🧠 Love solving problems through code and design</li>
-        <li>🌐 Full-stack development: Java, Spring Boot, React</li>
-        <li>🚀 Building HealthVault — a digital health record manager</li>
-        <li>📌 Believer in “Tech for Good” and user-centered solutions</li>
-      </ul>
-    </td>
-    <td style="width:50%; text-align:center;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300"/>
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/dharma0504/dharma0504/main/das.gif" align="right" width=60% alt="GIF">
+
+<p>🌱 Currently building Phase 2 of <strong>HealthVault</strong> with advanced features.</p>
+<p>💡 Passionate about impactful, real-world tech solutions.</p>
+<p>🌐 Full-stack developer: <strong>Java, React, Node.js, MongoDB</strong>.</p>
+<p>🚀 Built Phase 1 of <strong>HealthVault</strong> – an EHR platform connecting patients, doctors & diagnostics.</p>
+<p>🩸 Created a smart donor tracker to find nearby matches and send email alerts.</p>
+<p>📌 Strong advocate of “<strong>Tech for Good</strong>” and user-centered design.</p>
 
 
 
