@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dharma0504/dharma0504/main/das.gif" align="center" width=100% alt="GIF">
+<img src="https://raw.githubusercontent.com/dharma0504/dharma0504/main/ff.gif" align="center" width=100% alt="GIF">
 
 <h1 align="center">Hi 👋, I'm Dharmatej Mallampati</h1>
 
