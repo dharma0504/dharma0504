@@ -31,60 +31,47 @@ I'm currently pursuing a Bachelor's degree in Computer Science at SRMAP. I love 
 
 <br>
 
-<h2 align="center">🌟 My Best Projects</h2>
+## 🌟 My Best Projects
 
 <table>
   <tr>
-    <td width="45%" valign="top">
-      
-  <a href="https://github.com/dharma0504/Act-Local" target="_blank">
-    <img src="https://github.com/dharma0504/Act-Local/blob/main/Actlocal.png?raw=true" alt="Act-Local" style="width:100%; border-radius:10px;" />
-  </a>
-  
-  ### 📌 [Act-Local](https://github.com/dharma0504/Act-Local)
-  A volunteering platform connecting users to local events.
-
-  **Tech Stack:** React ⚛️ • Tailwind CSS 🎨 • JSON Server 🗃
-
-  </td>
-    
-  <td width="45%" valign="top">
-      
-  <a href="https://github.com/dharma0504/BloodBridge" target="_blank">
-    <img src="https://github.com/dharma0504/BloodBridge/blob/main/bloodbridge.png?raw=true" alt="BloodBridge" style="width:100%; border-radius:10px;" />
-  </a>
-
-  ### 🩸 [BloodBridge](https://github.com/dharma0504/BloodBridge)
-  A real-time blood donor tracker with SMS alerts and in-app chat.
-
-  **Tech Stack:** Java ☕ • Spring Boot 💉 • Twilio 📱
-  <br>
-
-  </td>
+    <td align="center" width="48%">
+      <a href="https://github.com/dharma0504/Act-Local">
+        <img src="https://github.com/dharma0504/Act-Local/blob/main/Actlocal.png?raw=true" width="100%" alt="Act-Local"/>
+      </a>
+      <p>A volunteering platform connecting users to local events.</p>
+      <p><strong>Tech Stack:</strong> React ⚛️ · Tailwind CSS 🎨 · JSON Server 🗃</p>
+    </td>
+    <td width="4%"></td>
+    <td align="center" width="48%">
+      <a href="https://github.com/dharma0504/BloodBridge">
+        <img src="https://github.com/dharma0504/BloodBridge/blob/main/bloodbridge.png?raw=true" width="100%" alt="BloodBridge"/>
+      </a>
+      <p>A real-time blood donor tracker with SMS alerts and chat.</p>
+      <p><strong>Tech Stack:</strong> Java ☕ · Spring Boot 💉 · Twilio 📱</p>
+    </td>
   </tr>
-  
+
+  <tr><td colspan="3"><br /></td></tr>
+
   <tr>
-    <td width="45%" valign="top">
-
-  ### 🏥 [HealthVault](https://github.com/dharma0504/Health-Vault)
-  A digital health record system with OTP access and search/upload features.
-
-  **Tech Stack:** React ⚛️ • Node.js 🟢 • JSON Server 📁
-
-  </td>
-    
-  <td width="45%" valign="top">
-
-  ### 🚀 [Your Project 4](https://github.com/dharma0504/YourRepo)
-  Describe your 4th project briefly here with features and tech.
-
-  **Tech Stack:** Python 🐍 • Flask 🌐 • SQLite 🗃
-
-  </td>
+    <td align="center" width="48%">
+      <a href="https://github.com/dharma0504/Health-Vault">
+        <img src="https://github.com/dharma0504/Health-Vault/blob/main/hv.png?raw=true" width="100%" alt="HealthVault"/>
+      </a>
+      <p>Digital health record system with OTP and search/upload features.</p>
+      <p><strong>Tech Stack:</strong> React ⚛️ · Node.js 🟢 · JSON Server 📁</p>
+    </td>
+    <td></td>
+    <td align="center" width="48%">
+      <a href="https://github.com/dharma0504/YourRepo">
+        <img src="https://via.placeholder.com/600x300.png?text=Project+4" width="100%" alt="Project 4"/>
+      </a>
+      <p>Brief description of your fourth project.</p>
+      <p><strong>Tech Stack:</strong> Python 🐍 · Flask 🌐 · SQLite 🗃</p>
+    </td>
   </tr>
 </table>
-
-
 
 
 
