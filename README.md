@@ -40,7 +40,7 @@ I'm currently pursuing a Bachelor's degree in Computer Science at SRMAP. I love 
         <img src="https://github.com/dharma0504/Act-Local/blob/main/Actlocal.png?raw=true" width="100%" alt="Act-Local"/>
       </a>
       <p>A volunteering platform connecting users to local events.</p>
-      <p><strong>Tech Stack:</strong> React ⚛️ · Tailwind CSS 🎨 · JSON Server 🗃</p>
+      <p><strong>Tech Stack:</strong> React  · Tailwind CSS  · JSON Server </p>
     </td>
     <td width="4%"></td>
     <td align="center" width="48%">
@@ -48,7 +48,7 @@ I'm currently pursuing a Bachelor's degree in Computer Science at SRMAP. I love 
         <img src="https://github.com/dharma0504/BloodBridge/blob/main/bloodbridge.png?raw=true" width="100%" alt="BloodBridge"/>
       </a>
       <p>A real-time blood donor tracker with SMS alerts and chat.</p>
-      <p><strong>Tech Stack:</strong> Java ☕ · Spring Boot 💉 · Twilio 📱</p>
+      <p><strong>Tech Stack:</strong> Java  · JDBC  · MySQL </p>
     </td>
   </tr>
 
@@ -59,44 +59,39 @@ I'm currently pursuing a Bachelor's degree in Computer Science at SRMAP. I love 
       <a href="https://github.com/dharma0504/Health-Vault">
         <img src="https://github.com/dharma0504/Health-Vault/blob/main/hv.png?raw=true" width="100%" alt="HealthVault"/>
       </a>
-      <p>Digital health record system with OTP and search/upload features.</p>
-      <p><strong>Tech Stack:</strong> React ⚛️ · Node.js 🟢 · JSON Server 📁</p>
+      <p>A digital revolution in paper-based medical records, enabling secure access, uploads, and OTP-verified doctor collaboration.</p>
+      <p><strong>Tech Stack:</strong> React  · Node.js  · JSON Server </p>
     </td>
     <td></td>
     <td align="center" width="48%">
-      <a href="https://github.com/dharma0504/YourRepo">
-        <img src="https://via.placeholder.com/600x300.png?text=Project+4" width="100%" alt="Project 4"/>
-      </a>
-      <p>Brief description of your fourth project.</p>
-      <p><strong>Tech Stack:</strong> Python 🐍 · Flask 🌐 · SQLite 🗃</p>
-    </td>
+  <a href="https://github.com/dharma0504/EduStack">
+    <img src="https://github.com/dharma0504/EduStack/blob/main/es.png?raw=true" width="100%" alt="EduStack"/>
+  </a>
+  <p>An all-in-one learning platform offering roadmaps, competitive coding challenges, and interview preparation resources.</p>
+  <p><strong>Tech Stack:</strong> HTML  · CSS  · Javascript </p>
+</td>
+
   </tr>
 </table>
 
 
 
+<h3 align="center">📬 Connect with me:</h3>
 
-
-
-
-<h3 align="left">📬 Connect with me:</h3>
-
-
-<div align="center" style="background-color: #f3f4f6; padding: 20px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05); width: 100%; display: flex; justify-content: center; flex-wrap: wrap;">
-  
-  <a href="mailto:dharmatej.mallampati@gmail.com" target="_blank" rel="noreferrer" style="margin: 0 20px;">
+<p align="center">
+  <a href="mailto:dharmatej.mallampati@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" />
   </a>
-
-  <a href="https://linkedin.com/in/dharmatejmallampati" target="_blank" rel="noreferrer" style="margin: 0 40px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/dharmatejmallampati" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-
-  <a href="https://instagram.com/dharmaa.tej" target="_blank" rel="noreferrer" style="margin: 0 60px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/dharmaa.tej" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
+</p>
 
-</div>
 
 
 
