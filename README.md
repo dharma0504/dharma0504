@@ -36,11 +36,11 @@ I'm currently pursuing a Bachelor's degree in Computer Science at SRMAP. I love 
 <table>
   <tr>
     <td align="center" width="48%">
-      <a href="https://github.com/dharma0504/Act-Local">
-        <img src="https://github.com/dharma0504/Act-Local/blob/main/Actlocal.png?raw=true" width="100%" alt="Act-Local"/>
+      <a href="https://github.com/dharma0504/Health-Vault">
+        <img src="https://github.com/dharma0504/Health-Vault/blob/main/hv.png?raw=true" width="100%" alt="HealthVault"/>
       </a>
-      <p>A volunteering platform connecting users to local events.</p>
-      <p><strong>Tech Stack:</strong> React  · Tailwind CSS  · JSON Server </p>
+      <p>A digital revolution in paper-based medical records, enabling secure access, uploads, and OTP-verified doctor collaboration.</p>
+      <p><strong>Tech Stack:</strong> React  · Node.js  · MongoDB </p>
     </td>
     <td width="4%"></td>
     <td align="center" width="48%">
@@ -56,23 +56,23 @@ I'm currently pursuing a Bachelor's degree in Computer Science at SRMAP. I love 
 
   <tr>
     <td align="center" width="48%">
-      <a href="https://github.com/dharma0504/Health-Vault">
-        <img src="https://github.com/dharma0504/Health-Vault/blob/main/hv.png?raw=true" width="100%" alt="HealthVault"/>
+      <a href="https://github.com/dharma0504/Act-Local">
+        <img src="https://github.com/dharma0504/Act-Local/blob/main/Actlocal.png?raw=true" width="100%" alt="Act-Local"/>
       </a>
-      <p>A digital revolution in paper-based medical records, enabling secure access, uploads, and OTP-verified doctor collaboration.</p>
-      <p><strong>Tech Stack:</strong> React  · Node.js  · JSON Server </p>
+      <p>A volunteering platform connecting users to local events.</p>
+      <p><strong>Tech Stack:</strong> React  · Tailwind CSS  · JSON Server </p>
     </td>
     <td></td>
     <td align="center" width="48%">
-  <a href="https://github.com/dharma0504/EduStack">
-    <img src="https://github.com/dharma0504/EduStack/blob/main/es.png?raw=true" width="100%" alt="EduStack"/>
-  </a>
-  <p>An all-in-one learning platform offering roadmaps, competitive coding challenges, and interview preparation resources.</p>
-  <p><strong>Tech Stack:</strong> HTML  · CSS  · Javascript </p>
-</td>
-
+      <a href="https://github.com/dharma0504/EduStack">
+        <img src="https://github.com/dharma0504/EduStack/blob/main/es.png?raw=true" width="100%" alt="EduStack"/>
+      </a>
+      <p>An all-in-one learning platform offering roadmaps, competitive coding challenges, and interview preparation resources.</p>
+      <p><strong>Tech Stack:</strong> React  · NodeJS  ·  </p>
+    </td>
   </tr>
 </table>
+
 
 
 
