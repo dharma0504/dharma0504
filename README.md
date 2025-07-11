@@ -56,19 +56,20 @@ I'm currently pursuing a Bachelor's degree in Computer Science at SRMAP. I love 
 
   <tr>
     <td align="center" width="48%">
-      <a href="https://github.com/dharma0504/Act-Local">
-        <img src="https://github.com/dharma0504/Act-Local/blob/main/Actlocal.png?raw=true" width="100%" alt="Act-Local"/>
+      <a href="https://github.com/dharma0504/EZ_Search">
+        <img src="https://github.com/dharma0504/EZ_Search/blob/main/EZ.png?raw=true" width="100%" alt="EZ_Search"/>
       </a>
-      <p>A volunteering platform connecting users to local events.</p>
-      <p><strong>Tech Stack:</strong> React  · Tailwind CSS  · JSON Server </p>
+      <p>Generates role-based interview questions using AI workflows.</p>
+<p><strong>Tech Stack:</strong> Streamlit · FastAPI · LangGraph · Python</p>
     </td>
     <td></td>
     <td align="center" width="48%">
-      <a href="https://github.com/dharma0504/EduStack">
-        <img src="https://github.com/dharma0504/EduStack/blob/main/es.png?raw=true" width="100%" alt="EduStack"/>
+      <a href="https://github.com/dharma0504/Act-Local">
+        <img src="https://github.com/dharma0504/Act-Local/blob/main/Actlocal.png?raw=true" width="100%" alt="Act-Local"/>
       </a>
-      <p>An all-in-one learning platform offering roadmaps, competitive coding challenges, and interview preparation resources.</p>
-      <p><strong>Tech Stack:</strong> React  · NodeJS  ·  </p>
+     <p>A volunteering platform connecting users to local events.</p>
+      <p><strong>Tech Stack:</strong> React  · Tailwind CSS  · JSON Server </p>
+    </td>
     </td>
   </tr>
 </table>
