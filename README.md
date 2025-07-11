@@ -84,7 +84,7 @@ I'm currently pursuing a Bachelor's degree in Computer Science at SRMAP. I love 
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/dharmatejmallampati" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/dharmatej-mallampati-47944724a/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
